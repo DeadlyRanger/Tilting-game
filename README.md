@@ -14,6 +14,5 @@
   
   ### PREVIEW OF THE GAME :- 
   
-  ![image](https://user-images.githubusercontent.com/94749969/161575581-11742323-8875-4c84-8d48-2e3b5bf358ea.png)
+ ![thumbnail](https://user-images.githubusercontent.com/94749969/161575945-9e127beb-6f10-4543-9e49-ab909d7009c7.png)
 
-   
